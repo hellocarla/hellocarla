@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Casey and I'm a fullstack dev trainee learning from UPSKILL Portugal.</p>
+<p align="left">My name is Casey and I'm a fullstack dev.</p>
 
 ###
 
